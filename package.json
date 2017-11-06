@@ -1,0 +1,27 @@
+{
+  "name": "twittols-bot",
+  "version": "1.0.0",
+  "description": "etzibot",
+  "main": "index.js",
+  "author": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/utolosa002/twittols-bot.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/utolosa002/twittols-bot/issues"
+  },
+  "homepage": "https://github.com/utolosa002/twittols-bot#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "path": "^0.12.7",
+    "request": "^2.83.0",
+    "twit": "^2.2.9",
+    "xml2js": "^0.4.19"
+  }
+}
